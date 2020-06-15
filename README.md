@@ -19,7 +19,7 @@ about the contests which are hosted on this sites. So, edit it according to your
 Lastly, set AutomateNote.py to run on startup using Task Schedular in windows or you could write your own shell script for it.
 So, now whenever you start your laptop, notes.txt will automatically get updated.
 
-<strong>sticky-notes.py: This is just a simple Notepad GUI App, which tells you the contents of notes.txt and also allow you edit 
+<strong>sticky-notes.py: This is just a simple Notepad GUI App, which tells you the contents of notes.txt and also allows you to edit 
 notes.txt directly.</strong> 
 
 # Dependencies
