@@ -8,7 +8,7 @@ current_year = today.year
 
 TARGET_SITES = ['codeforces.com', 'codechef.com', 'codingcompetitions.withgoogle.com', 'icpc']
 
-PATH = 'C:\\Users\\12345\\Desktop\\1\\Notes\\notes.txt'
+PATH = 'C:\\Users\\Shubh\\Desktop\\projects\\Automate Notes\\notes.txt'
 
 source = requests.get('https://clist.by/').text
 clist_by = BeautifulSoup(source, 'lxml')
